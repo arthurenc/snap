@@ -1,0 +1,6 @@
+# SCALA
+/target
+
+# IDE
+/.idea
+/.bsp
